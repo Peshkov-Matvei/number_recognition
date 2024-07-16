@@ -37,3 +37,5 @@
 ```bash
 pip install -r requirements.txt
 
+## Автор
+Пешков Матвей (https://github.com/Peshkov-Matvei).
